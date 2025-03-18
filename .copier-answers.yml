@@ -1,0 +1,12 @@
+_commit: v1.5.1
+_src_path: gh:superlinear-ai/substrate
+author_email: zcorrea357@gmail.com
+author_name: Luiz Correa
+project_description: security_incident_response_system
+project_name: Security Incident Response System
+project_type: package
+project_url: https://github.com/CorreaCyberLabsLTD/security_incident_response_system
+python_version: '3.10'
+typing: strict
+with_conventional_commits: true
+with_typer_cli: false
