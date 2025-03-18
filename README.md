@@ -1,3 +1,6 @@
+####
+
+```
 security_incident_response_system/
 ├── __init__.py
 ├── main.py
@@ -52,3 +55,5 @@ security_incident_response_system/
 └── directory/
     ├── __init__.py
     └── ldap_service.py   # Serviço de sincronização de usuários via LDAP (exemplo DIP)
+
+```
